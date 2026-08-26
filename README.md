@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer in the making </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=B.Tech+CSE+%7C+Full+Stack+Development;2nd+Year+Student;;Open+to+Collaboration+%26+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Development;2nd+Year+Student;;Open+to+Collaboration+%26+Internships" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 -  Currently learning **Java, HTML, CSS & MongoDB**
 -  I love turning ideas into real, working web applications
 -  Fun fact: I learn best by breaking things and fixing them again
--  Reach me at: **your.email@example.com**
+-  Reach me at: **gargrishit317@gmail.com**
 
 ---
 
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rishit-007&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>

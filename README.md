@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer in the making </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Development;2nd+Year+Student;;Open+to+Collaboration+%26+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Development;2nd+Year+Student;"Open+to+Collaboration+%26+Internships" alt="Typing SVG" />
 </p>
 
 ---
